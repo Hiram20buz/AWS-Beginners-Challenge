@@ -32,9 +32,15 @@ Finally, click **Create bucket** to complete the setup.
 
 ![Bucket Setup](https://github.com/user-attachments/assets/65757505-e5d0-404d-a441-09f6662f02ef)
 
-## Step 5: Upload website content to your bucket
-In the General purpose buckets section:
-1-Click on the bucket
-2-Download an HTML file that sets up your website.
-3-Download a zip file of images for your website.
-4-Upload both files into your S3 bucket.
+## Step 5: Upload Your Website Files
+
+In the **General purpose buckets** section:
+
+1. Click on your newly created bucket.  
+2. Prepare your website files:  
+   - An **HTML file** (the main page of your site).  
+   - An **images folder** (unzipped).  
+3. Upload both the HTML file and the images folder into your S3 bucket.  
+   > ⚠️ Do not upload the ZIP file directly — make sure you upload the extracted folder instead.
+
+![Upload Files](https://github.com/user-attachments/assets/969fc3f1-f97e-4749-86bf-c767f000552b)
