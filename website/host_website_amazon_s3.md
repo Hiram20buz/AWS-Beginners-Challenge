@@ -59,6 +59,15 @@ In the **General purpose buckets** section:
 
 ![Website Link](https://github.com/user-attachments/assets/5a74feb6-c04e-4c9d-846c-b24570e00965)
 
-## Step 7: Make objects in your S3 bucket public
-1-Make your website files in S3 publicly accessible
-2-See your website live on the internet
+## Step 7: Make Your S3 Objects Public
+
+1. Ensure your website files are publicly accessible:  
+   - Select the files in your S3 bucket.  
+   - Update their permissions to allow **public access**.  
+
+![Make Objects Public](https://github.com/user-attachments/assets/27fb2ebc-8d51-414c-8890-48f413e1c626)
+
+2. Once public, visit your **website endpoint** to see your site live on the internet.  
+
+![Website Live](https://github.com/user-attachments/assets/8b531f04-7ac0-4c12-abbe-897f9a13f3ce)
+
