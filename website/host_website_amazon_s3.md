@@ -71,3 +71,14 @@ In the **General purpose buckets** section:
 
 ![Website Live](https://github.com/user-attachments/assets/8b531f04-7ac0-4c12-abbe-897f9a13f3ce)
 
+## Step 8: Clean Up Your Resources
+
+After you’re done testing your website, it’s important to delete your S3 bucket and any associated resources to avoid ongoing charges:
+
+1. Go to your S3 bucket list.  
+2. Select the bucket you created for the website.  
+3. Click **Delete bucket** and confirm.  
+4. Ensure all objects and versions are removed before deletion.
+
+> ⚠️ **Warning:** This action is permanent. Make sure you have backups if you want to keep your website files.
+
