@@ -18,3 +18,16 @@ Click on **Create bucket** to start setting up a new S3 bucket where your websit
 
 ![Create Bucket](https://github.com/user-attachments/assets/5db496fa-244c-40bf-a6c2-d7a2a2fc9f3b)
 
+## Step 4: Configure Your New Bucket
+
+Fill in the required settings for your bucket:
+
+1. **Bucket name** – Choose a unique name (S3 bucket names must be globally unique).  
+2. **Object ownership** – Select **ACLs enabled** and set the preferred bucket owner.  
+3. **Public access settings** – **Uncheck** “Block all public access” so the bucket can serve website files.  
+4. **Bucket versioning** – Enable versioning to keep track of file changes.  
+5. Leave all other options as default.  
+
+Finally, click **Create bucket** to complete the setup.
+
+![Bucket Setup](https://github.com/user-attachments/assets/65757505-e5d0-404d-a441-09f6662f02ef)
