@@ -12,3 +12,9 @@ Choose the **AWS region** that is geographically closest to you to reduce latenc
 For example, users in **Tijuana, Mexico** should select **Norte de California (`us-west-1`)**.
 
 ![Choose Region](https://github.com/user-attachments/assets/3c890715-bc05-4c4b-a2f3-db19ed178ff0)
+
+## Step 3: Create a New Bucket
+Click on **Create bucket** to start setting up a new S3 bucket where your website files will be stored.
+
+![Create Bucket](https://github.com/user-attachments/assets/5db496fa-244c-40bf-a6c2-d7a2a2fc9f3b)
+
