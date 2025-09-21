@@ -44,3 +44,6 @@ In the **General purpose buckets** section:
    > ⚠️ Do not upload the ZIP file directly — make sure you upload the extracted folder instead.
 
 ![Upload Files](https://github.com/user-attachments/assets/969fc3f1-f97e-4749-86bf-c767f000552b)
+
+## Step 6: Configure a static website on Amazon S3
+
